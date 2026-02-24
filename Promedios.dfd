@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+'Hola por favor ingresa tus notas para conocer tu promedio recuerda que se califica de 5 a 1'
+5
+1
+10
+N1, N2, N3
+6
+2
+4
+suma
+12
+N1 + N2 + N3
+8
+promedio
+6
+suma/3
+4
+1
+15
+'Calculando...'
+4
+1
+45
+'El promedio calculado ha sido de ' ,promedio
+1
