@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+"Hola ingresa los datos a b c para desarrollar la ecuacion cuadratica"
+5
+1
+7
+a, b, c
+7
+0
+1
+3
+a=0
+6
+1
+13
+Discriminante
+22
+ (b * b) - (4 * a * c)
+7
+0
+1
+17
+Discriminante < 0
+6
+2
+2
+X1
+35
+(-b + sqrt(Discriminante) )/(2 * a)
+2
+X2
+35
+(-b - sqrt(Discriminante) )/(2 * a)
+13
+4
+1
+61
+"La ecuación no tiene soluciones reales (Raíces imaginarias)"
+13
+13
+4
+1
+59
+"Error: 'a' no puede ser 0 (No es una ecuación cuadrática)"
+13
+4
+1
+22
+"El valor es: ", x1,x2
+1
